@@ -1,0 +1,13 @@
+#canvas1{
+    border: 5px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    translate: -50% -50%;
+    background: url('bg_default.jpg');
+}
+#beetlemorph , #player , #rhinomorph , #player_jets , #boss{
+    display: none;
+
+}
